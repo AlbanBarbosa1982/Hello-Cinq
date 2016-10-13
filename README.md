@@ -1,2 +1,5 @@
 # Hello-Cinq
-Setting up
+
+Moggel,
+
+Lekker aan het pielen met Go. Straks lunchen.
